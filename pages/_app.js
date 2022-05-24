@@ -43,3 +43,5 @@ export default MyApp;
 // 23. kreiramo crypto.jsx React komponentu 
 // 24. kreiramo netflix.jsx React komponentu
 // 25. kreiramo twitch.jsx React komponentu
+// 26. upisujemo u terminal: git config --global user.email "imamovic.kerim@gmail.com"
+// 27. upisujemo u terminal: git config --global user.name "kimamovic21"
