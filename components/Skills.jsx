@@ -38,7 +38,7 @@ const Skills = () => {
                             <Image src='/../public/assets/skills/css.png' 
                                    width='70px'
                                    height='70px'
-                                   alt='HTML image'
+                                   alt='CSS image'
                             />
                         </div>
                         <div className='flex flex-col justify-center items-center'>
